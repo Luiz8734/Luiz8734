@@ -42,3 +42,9 @@ Me chamo Luiz Morais, tenho 18 anos e sou estudante de Engenharia de Software na
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+### 🐍 Snake Contributions
+
+<img src="https://raw.githubusercontent.com/Luiz8734/Luiz8734/output/github-contribution-grid-snake.svg" alt="snake gif" />
+
+
