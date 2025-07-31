@@ -1,54 +1,44 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👨🏻‍💻 Luiz Morais
 
-<p align="left">My name is Luiz, and I'm a passionate developer from São Paulo, Brazil 🇧🇷</p>
+**`Desenvolvedor FullStack`**
 
----
+Me chamo Luiz Morais, tenho 18 anos e sou estudante de Engenharia de Software na FIAP. Sou apaixonado por tecnologia e desenvolvimento de sistemas. Estou começando minha jornada como desenvolvedor fullstack e buscando aprender cada vez mais, participando de projetos web modernos e responsivos. Quero crescer na área e contribuir com a comunidade tech através dos meus projetos no GitHub.
 
-<h2 align="left">🧑‍💻 About Me</h2>
-
-<p align="left">
-✨ Creating bugs since 2010 <br>
-📚 Currently learning: Advanced C++ and WebAssembly <br>
-🎯 Goals: Build high-performance web applications and contribute to open-source projects <br>
-🎲 Fun fact: I once coded a game in C++ that runs entirely in the browser!
-</p>
-
----
-
-<h2 align="left">🛠️ Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo" />
 </div>
 
----
+###
 
-<h2 align="left">💻 Tools & Frameworks</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emscripten/emscripten-original.svg" height="40" alt="Emscripten" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webassembly/webassembly-original.svg" height="40" alt="WebAssembly" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/luiz-morais-0b048727b/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+      height="25" 
+      alt="linkedin logo"  
+    />
+  </a>
 </div>
 
----
 
-<h2 align="left">🌐 Social</h2>
+###
 
-<p align="left">
-<a href="https://github.com/luizdev" target="_blank">GitHub</a> • 
-<a href="https://linkedin.com/in/luizdev" target="_blank">LinkedIn</a> • 
-<a href="https://twitter.com/luizdev" target="_blank">Twitter</a>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Luiz8734&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-<p align="left">Hello World!! 🌎✨</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
