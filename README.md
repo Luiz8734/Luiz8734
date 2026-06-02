@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luiz Morais, tenho 18 anos e sou estudante de Engenharia de Software na FIAP. Sou apaixonado por tecnologia e desenvolvimento de sistemas. Estou começando minha jornada como desenvolvedor fullstack e buscando aprender cada vez mais, participando de projetos web modernos e responsivos. Quero crescer na área e contribuir com a comunidade tech através dos meus projetos no GitHub.
+Me chamo Luiz Morais, tenho 19 anos e sou estudante de Engenharia de Software na FIAP. Sou apaixonado por tecnologia e desenvolvimento de sistemas. Estou começando minha jornada como desenvolvedor fullstack e buscando aprender cada vez mais, participando de projetos web modernos e responsivos. Quero crescer na área e contribuir com a comunidade tech através dos meus projetos no GitHub.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
